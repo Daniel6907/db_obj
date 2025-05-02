@@ -1,0 +1,16 @@
+{
+  "name": "db_obj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db_obj.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.15.6",
+    "prompt-async": "^0.9.9"
+  }
+}
